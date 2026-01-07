@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a BCA 3rd-year student and a motivated fresher actively looking for entry-level job opportunities in software development.<br>🐍 I’m currently working with Python and exploring its libraries to build practical and real-world solutions.<br>💻 I have a good foundation in C, C++, SQL, OOP concepts, and Basic DSA, and I enjoy learning new technologies to improve my skills.<br>🤝 I’m eager to collaborate on beginner-friendly projects and open to learning from industry professionals.<br>🚀 Passionate about coding, problem-solving, and growing as a developer.
+🎓 I’m a BCA 3rd-year student and a motivated fresher actively looking for entry-level job opportunities in software development.<br>🐍 I’m currently working with Python and exploring its libraries to build practical and real-world solutions.<br>💻 I have a good foundation in python , sC, C++, SQL, OOP concepts, and Basic DSA, and I enjoy learning new technologies to improve my skills.<br>🤝 I’m eager to collaborate on beginner-friendly projects and open to learning from industry professionals.<br>🚀 Passionate about coding, problem-solving, and growing as a developer.
 
 
 
